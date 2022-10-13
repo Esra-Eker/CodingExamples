@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListGenericInceleme", "ListGenericInceleme\ListGenericInceleme.csproj", "{7FC87B93-926B-46A3-A469-BEBDD372E2F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FC87B93-926B-46A3-A469-BEBDD372E2F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC87B93-926B-46A3-A469-BEBDD372E2F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC87B93-926B-46A3-A469-BEBDD372E2F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC87B93-926B-46A3-A469-BEBDD372E2F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99BD5431-1D5F-43BD-A8A0-F7464A170247}
+	EndGlobalSection
+EndGlobal

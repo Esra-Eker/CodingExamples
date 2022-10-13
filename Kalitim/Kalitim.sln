@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalitim", "Kalitim\Kalitim.csproj", "{E30EA12F-6DF9-41E5-9C99-A10419228A2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E30EA12F-6DF9-41E5-9C99-A10419228A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30EA12F-6DF9-41E5-9C99-A10419228A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30EA12F-6DF9-41E5-9C99-A10419228A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30EA12F-6DF9-41E5-9C99-A10419228A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8ECE6AF7-E79B-46A6-996D-BBC693504D8D}
+	EndGlobalSection
+EndGlobal
