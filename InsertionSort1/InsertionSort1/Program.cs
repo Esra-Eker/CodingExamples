@@ -17,7 +17,6 @@ namespace InsertionSort1
         public static void insertionSort1(int n, List<int> arr)
         {
             int lastNum = arr[arr.Count - 1];
-            //arr[arr.Count - 1] = arr[arr.Count - 2];
 
             for (int i = arr.Count - 2; 0 <= i; i--)
             {
@@ -41,6 +40,7 @@ namespace InsertionSort1
                     foreach (var item in arr)
                         Console.Write(item + " ");
                     Console.WriteLine();
+                    break;
                 }
             }
         }
